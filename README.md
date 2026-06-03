@@ -5,7 +5,7 @@
 
 ### 🏢 Work Experience
 **Data Scientist** | Tea TEK, Italia
-*July 2025 - Present*
+*July 2025 - Jan 2026*
 
 ---
 
@@ -57,7 +57,7 @@ With hands-on experience in deep neural networks, sampling techniques, NLP archi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ejazfahil&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Food for Thought 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
